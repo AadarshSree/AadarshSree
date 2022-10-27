@@ -4,7 +4,7 @@
 **AadarshSree/AadarshSree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🎓 I’m currently in univeristy learning Computer Science
+- 🎓 I’m currently working as a junior software engineer
 - 💬 Ask me about anything
 - 📫 How to reach me: aadarsh.sreekumar2018@vitstudent.ac.in
 - ⚡ Fun fact: The most viewed video on YouTube is Baby Shark LoL
