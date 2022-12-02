@@ -7,7 +7,6 @@
 - 🎓 I’m currently working as a junior software engineer
 - 💬 Ask me about anything
 - 📫 How to reach me: aadarsh.sreekumar2018@vitstudent.ac.in
-- ⚡ Fun fact: The most viewed video on YouTube is Baby Shark LoL
 
 ![Aadarsh's github stats](https://github-readme-stats.vercel.app/api?username=aadarshSree&theme=great-gatsby&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
