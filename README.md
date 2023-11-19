@@ -4,7 +4,7 @@
 **AadarshSree/AadarshSree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🎓 I’m currently working as an associate software engineer
+- 🎓 I'm a Cybersecurity Master's Student at Queen's University
 - 💬 Ask me about anything
 - 📫 How to reach me: aadarsh.sreekumar2018@vitalum.ac.in
 
