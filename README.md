@@ -6,7 +6,7 @@
 
 - 🎓 I'm a Cybersecurity Master's Student at Queen's University
 - 💬 Ask me about anything
-- 📫 How to reach me: aadarsh.sreekumar2018@vitalum.ac.in
+- 📫 How to reach me: aadarsh.sreekumar@queensu.ca
 
 ![Aadarsh's github stats](https://github-readme-stats.vercel.app/api?username=aadarshSree&theme=great-gatsby&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
