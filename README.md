@@ -5,6 +5,7 @@
 -->
 
 - 🎓 I'm a Cybersecurity Master's Graduate From Queen's University
+- 👨‍💻 I currently work as a Software Engineer
 - 💬 Ask me about anything
 - 📫 How to reach me: aadarsh.sreekumar@queensu.ca
 
